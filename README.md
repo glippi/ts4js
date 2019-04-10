@@ -26,7 +26,8 @@ compiler prevents you from introduce annoying bugs**
 
 ### How to use it:
 You just need to copy this tsconfig file inside your working directory, like
-this: `wget https://raw.githubusercontent.com/glippi/ts4js/master/tsconfig.json`
+this: 
+`wget https://raw.githubusercontent.com/glippi/ts4js/master/tsconfig.json`
 
 #### Documentation:
 
