@@ -22,6 +22,12 @@ compiler prevents you from introduce annoying bugs**
 | noUnusedParameters | true | Report errors on unused parameters |
 | strictBindCallApply | true | Enable stricter checking of of the bind, call, and apply methods on functions |
 
+
+
+### How to use it:
+You just need to copy this tsconfig file inside your working directory, like
+this: `wget https://raw.githubusercontent.com/glippi/ts4js/master/tsconfig.json`
+
 #### Documentation:
 
 Please check the official TypeScript documentation for more info:
