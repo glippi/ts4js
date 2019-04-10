@@ -1,7 +1,7 @@
 # ts4js
 >leverage TypeScript compiler for writing plain old JavaScript
 
-## :idea: The idea:
+## :bulb: The idea:
 
 I like JavaScript. I like the fact that is dynamic. I want to write JavaScript,
 but we all know that sometimes an helping hand while writing our code could
